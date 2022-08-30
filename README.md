@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sayampalrecha
 - 👀 I’m interested in Machine Learning and developing new things and working with data 
 - 🌱 I’m currently learning Machine Learning Algorithm Python Gui  
-- 💞️ I’m looking to collaborate on exiciting projects on Machine Learning, Data Analysis and Visulalization
+- 💞️ I’m looking to collaborate on exiciting projects on Machine Learning, and towards working on research projects as well.
 - 📫 How to reach me on my LinkedIn @sayampalrecha
 
 <!---
