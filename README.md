@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @sayampalrecha
-- 👀 I’m interested in Machine Learning and developing new things and working with data 
-- 🌱 I’m currently learning Machine Learning Algorithm Python Gui  
-- 💞️ I’m looking to collaborate on exiciting projects on Machine Learning, and towards working on research projects as well.
-- 📫 How to reach me on my LinkedIn @sayampalrecha
 
-<!---
-sayampalrecha/sayampalrecha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Sayam! 👋
+
+
+## 🚀 About Me
+I am a dedicated team player who's hard working passionate and highly motivated to explore and think out of the box.
+
+I'm currently a Junior at D.Y Patil COE pursuing a Bachelors in Engineering in Artificial Intelligence And Data Science
+
+My major focuss is Machine Learing and its real world applications in complex projects.
+
+
+## 🔗 Connect with me 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sayampalrecha.in/https://sayampalrecha.in/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayampalrecha/)
+
+
+
+## 🛠 Skills
+Python, R, Supervised andUnsupervised ML Algorithm, OpenComputerVision, Natural Language Processing, and GUI using TKinter.
+
+
+## Related
+
+Here are some of my more related projects
+
+[More works](https://sayampalrecha.in/)
+
