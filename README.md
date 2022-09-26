@@ -1,7 +1,7 @@
 
 # Hi, I'm Sayam! 👋
 ## Machine Learning Engineer who loves to work with data and predict the future
-[![Profile View 👀](https://hits.dwyl.com/sayampalrecha/sayampalrecha.svg?style=flat-square&show=unique)](http://hits.dwyl.com/sayampalrecha/sayampalrecha)
+Profile Views 👀: [![Profile View 👀](https://hits.dwyl.com/sayampalrecha/sayampalrecha.svg?style=flat-square&show=unique)](http://hits.dwyl.com/sayampalrecha/sayampalrecha)
 
 ## 🚀 About Me
 I am a dedicated team player who's hard working passionate and highly motivated to explore and think out of the box.
