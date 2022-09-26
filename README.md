@@ -1,6 +1,6 @@
 
 # Hi, I'm Sayam! 👋
-
+## Machine Learning Engineer who loves to work with data and predict the future
 
 ## 🚀 About Me
 I am a dedicated team player who's hard working passionate and highly motivated to explore and think out of the box.
