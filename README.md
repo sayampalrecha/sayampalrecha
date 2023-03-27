@@ -1,6 +1,6 @@
 
 # Hi, I'm Sayam! 👋
-## Machine Learning Engineer who loves to work with data and predict the future
+## IIT-Roorkee Research Intern with an affinity to grow and learn more in the space of Deep Learning
 Profile Views 👀: [![Profile View 👀](https://hits.dwyl.com/sayampalrecha/sayampalrecha.svg?style=flat-square&show=unique)](http://hits.dwyl.com/sayampalrecha/sayampalrecha)
 
 ## 🚀 About Me
