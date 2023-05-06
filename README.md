@@ -5,6 +5,7 @@ Profile Views 👀: [![Profile View 👀](https://hits.dwyl.com/sayampalrecha/sa
 
 ## 🚀 About Me
 I'm currently a pursuing a Bachelors in Engineering in Artificial Intelligence And Data Science
+
 My major focuss is Computer Vision and Generative AI.
 
 
