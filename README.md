@@ -1,12 +1,12 @@
 
 # Hi, I'm Sayam! 👋
-## Research Intern @ IIT-ROORKEE
+## Research Intern @ IIT-ROORKEE and CMU
 Profile Views 👀: [![Profile View 👀](https://hits.dwyl.com/sayampalrecha/sayampalrecha.svg?style=flat-square&show=unique)](http://hits.dwyl.com/sayampalrecha/sayampalrecha)
 
 ## 🚀 About Me
 I'm currently a pursuing a Bachelors in Engineering in Artificial Intelligence And Data Science
 
-My major focuss is Computer Vision and Generative AI.
+My research interest are Computer Vision and Generative AI.
 
 
 
