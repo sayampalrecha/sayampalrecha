@@ -1,7 +1,9 @@
 
 # Hi, I'm Sayam! 👋
 
-## M.S  Data Science Student At George Washington University 
+## M.Sc  Data Science Student At George Washington University 
+
+## 📍 Washington, DC
 
 ## 🔗 Connect with me 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sayam.me/)
