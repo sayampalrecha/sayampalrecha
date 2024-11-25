@@ -3,8 +3,6 @@
 
 ## M.Sc  Data Science Student At George Washington University 
 
-## Curious and looking to work with you on your next project in Finance or Healthcare or anything that excites 
-
 ## 📍 Washington, DC
 
 ## 🔗 Connect with me 
