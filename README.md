@@ -23,5 +23,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/sayamp)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://sayamp.github.io/)
 
-Currently learning and exploring quantitative finance..
+## Currently learning and exploring quantitative finance..
 
