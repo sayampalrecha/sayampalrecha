@@ -20,7 +20,6 @@
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayampalrecha/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/sayamp)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://sayamp.github.io/)
 
 ## Currently learning and exploring quantitative finance..
