@@ -1,4 +1,3 @@
-# Hello, I am Sayam
 Open source contribution - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/regulatorystudies/Reg-Stats)
 
 ## Tech Stack
